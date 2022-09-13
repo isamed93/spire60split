@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name kicad-keyboard-parts)(type KiCad)(uri C:/Users/Irene/Documents/KiCad_Projects/spire60split/libraries/kicad-keyboard-parts.pretty)(options "")(descr ""))
+  (lib (name kbd)(type KiCad)(uri C:/Users/Irene/Documents/KiCad_Projects/spire60split/libraries/kbd/kicad-footprints/kbd.pretty)(options "")(descr ""))
+)

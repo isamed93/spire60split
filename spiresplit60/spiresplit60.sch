@@ -1,0 +1,1948 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L kicad-keyboard-parts:MX_LED MX_2
+U 1 1 6321142A
+P 1600 1050
+F 0 "MX_2" H 1472 945 50  0000 R CNN
+F 1 "MX_LED" H 1472 1012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 1650 1150 50  0001 C CNN
+F 3 "" H 1650 1150 50  0001 C CNN
+	1    1600 1050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_3
+U 1 1 63211A85
+P 2050 1050
+F 0 "MX_3" H 1922 945 50  0000 R CNN
+F 1 "MX_LED" H 1922 1012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 2100 1150 50  0001 C CNN
+F 3 "" H 2100 1150 50  0001 C CNN
+	1    2050 1050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_4
+U 1 1 6321C41E
+P 2500 1050
+F 0 "MX_4" H 2372 945 50  0000 R CNN
+F 1 "MX_LED" H 2372 1012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 2550 1150 50  0001 C CNN
+F 3 "" H 2550 1150 50  0001 C CNN
+	1    2500 1050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_5
+U 1 1 6321CA38
+P 2950 1050
+F 0 "MX_5" H 2822 945 50  0000 R CNN
+F 1 "MX_LED" H 2822 1012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 3000 1150 50  0001 C CNN
+F 3 "" H 3000 1150 50  0001 C CNN
+	1    2950 1050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_6
+U 1 1 6321D002
+P 3400 1050
+F 0 "MX_6" H 3272 945 50  0000 R CNN
+F 1 "MX_LED" H 3272 1012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 3450 1150 50  0001 C CNN
+F 3 "" H 3450 1150 50  0001 C CNN
+	1    3400 1050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_TAB1
+U 1 1 6321D919
+P 700 1700
+F 0 "MX_TAB1" H 572 1595 50  0000 R CNN
+F 1 "MX_LED" H 572 1662 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 750 1800 50  0001 C CNN
+F 3 "" H 750 1800 50  0001 C CNN
+	1    700  1700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_Q1
+U 1 1 63220CF2
+P 1150 1700
+F 0 "MX_Q1" H 1022 1595 50  0000 R CNN
+F 1 "MX_LED" H 1022 1662 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 1200 1800 50  0001 C CNN
+F 3 "" H 1200 1800 50  0001 C CNN
+	1    1150 1700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_W1
+U 1 1 632212DA
+P 1600 1700
+F 0 "MX_W1" H 1472 1595 50  0000 R CNN
+F 1 "MX_LED" H 1472 1662 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 1650 1800 50  0001 C CNN
+F 3 "" H 1650 1800 50  0001 C CNN
+	1    1600 1700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_E1
+U 1 1 632218E5
+P 2050 1700
+F 0 "MX_E1" H 1922 1595 50  0000 R CNN
+F 1 "MX_LED" H 1922 1662 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 2100 1800 50  0001 C CNN
+F 3 "" H 2100 1800 50  0001 C CNN
+	1    2050 1700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_R1
+U 1 1 63221EC3
+P 2500 1700
+F 0 "MX_R1" H 2372 1595 50  0000 R CNN
+F 1 "MX_LED" H 2372 1662 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 2550 1800 50  0001 C CNN
+F 3 "" H 2550 1800 50  0001 C CNN
+	1    2500 1700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_T1
+U 1 1 63222528
+P 2950 1700
+F 0 "MX_T1" H 2822 1595 50  0000 R CNN
+F 1 "MX_LED" H 2822 1662 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 3000 1800 50  0001 C CNN
+F 3 "" H 3000 1800 50  0001 C CNN
+	1    2950 1700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_CAPS1
+U 1 1 63225DE1
+P 700 2350
+F 0 "MX_CAPS1" H 572 2245 50  0000 R CNN
+F 1 "MX_LED" H 572 2312 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 750 2450 50  0001 C CNN
+F 3 "" H 750 2450 50  0001 C CNN
+	1    700  2350
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_A1
+U 1 1 63226342
+P 1150 2350
+F 0 "MX_A1" H 1022 2245 50  0000 R CNN
+F 1 "MX_LED" H 1022 2312 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 1200 2450 50  0001 C CNN
+F 3 "" H 1200 2450 50  0001 C CNN
+	1    1150 2350
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_S1
+U 1 1 63226952
+P 1600 2350
+F 0 "MX_S1" H 1472 2245 50  0000 R CNN
+F 1 "MX_LED" H 1472 2312 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 1650 2450 50  0001 C CNN
+F 3 "" H 1650 2450 50  0001 C CNN
+	1    1600 2350
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_D1
+U 1 1 63226EAE
+P 2050 2350
+F 0 "MX_D1" H 1922 2245 50  0000 R CNN
+F 1 "MX_LED" H 1922 2312 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 2100 2450 50  0001 C CNN
+F 3 "" H 2100 2450 50  0001 C CNN
+	1    2050 2350
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_F1
+U 1 1 63227450
+P 2500 2350
+F 0 "MX_F1" H 2372 2245 50  0000 R CNN
+F 1 "MX_LED" H 2372 2312 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 2550 2450 50  0001 C CNN
+F 3 "" H 2550 2450 50  0001 C CNN
+	1    2500 2350
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_G1
+U 1 1 632277A9
+P 2950 2350
+F 0 "MX_G1" H 2822 2245 50  0000 R CNN
+F 1 "MX_LED" H 2822 2312 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 3000 2450 50  0001 C CNN
+F 3 "" H 3000 2450 50  0001 C CNN
+	1    2950 2350
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_LSHIFT1
+U 1 1 63227E31
+P 700 3050
+F 0 "MX_LSHIFT1" H 572 2945 50  0000 R CNN
+F 1 "MX_LED" H 572 3012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 750 3150 50  0001 C CNN
+F 3 "" H 750 3150 50  0001 C CNN
+	1    700  3050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_Z1
+U 1 1 63228496
+P 1150 3050
+F 0 "MX_Z1" H 1022 2945 50  0000 R CNN
+F 1 "MX_LED" H 1022 3012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 1200 3150 50  0001 C CNN
+F 3 "" H 1200 3150 50  0001 C CNN
+	1    1150 3050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_X1
+U 1 1 632289ED
+P 1600 3050
+F 0 "MX_X1" H 1472 2945 50  0000 R CNN
+F 1 "MX_LED" H 1472 3012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 1650 3150 50  0001 C CNN
+F 3 "" H 1650 3150 50  0001 C CNN
+	1    1600 3050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_C1
+U 1 1 63228E2C
+P 2050 3050
+F 0 "MX_C1" H 1922 2945 50  0000 R CNN
+F 1 "MX_LED" H 1922 3012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 2100 3150 50  0001 C CNN
+F 3 "" H 2100 3150 50  0001 C CNN
+	1    2050 3050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_V1
+U 1 1 63229306
+P 2500 3050
+F 0 "MX_V1" H 2372 2945 50  0000 R CNN
+F 1 "MX_LED" H 2372 3012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 2550 3150 50  0001 C CNN
+F 3 "" H 2550 3150 50  0001 C CNN
+	1    2500 3050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_B1
+U 1 1 632297FE
+P 2950 3050
+F 0 "MX_B1" H 2822 2945 50  0000 R CNN
+F 1 "MX_LED" H 2822 3012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 3000 3150 50  0001 C CNN
+F 3 "" H 3000 3150 50  0001 C CNN
+	1    2950 3050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_LCTRL1
+U 1 1 63245F77
+P 700 3700
+F 0 "MX_LCTRL1" H 572 3595 50  0000 R CNN
+F 1 "MX_LED" H 572 3662 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 750 3800 50  0001 C CNN
+F 3 "" H 750 3800 50  0001 C CNN
+	1    700  3700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_LWIN1
+U 1 1 6324653C
+P 1150 3700
+F 0 "MX_LWIN1" H 1022 3595 50  0000 R CNN
+F 1 "MX_LED" H 1022 3662 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 1200 3800 50  0001 C CNN
+F 3 "" H 1200 3800 50  0001 C CNN
+	1    1150 3700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_LALT1
+U 1 1 6324698A
+P 1600 3700
+F 0 "MX_LALT1" H 1472 3595 50  0000 R CNN
+F 1 "MX_LED" H 1472 3662 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 1650 3800 50  0001 C CNN
+F 3 "" H 1650 3800 50  0001 C CNN
+	1    1600 3700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_SPACE1
+U 1 1 63247139
+P 2050 3700
+F 0 "MX_SPACE1" H 1922 3595 50  0000 R CNN
+F 1 "MX_LED" H 1922 3662 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 2100 3800 50  0001 C CNN
+F 3 "" H 2100 3800 50  0001 C CNN
+	1    2050 3700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_SPACE2
+U 1 1 632475F5
+P 2500 3700
+F 0 "MX_SPACE2" H 2372 3595 50  0000 R CNN
+F 1 "MX_LED" H 2372 3662 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 2550 3800 50  0001 C CNN
+F 3 "" H 2550 3800 50  0001 C CNN
+	1    2500 3700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_7
+U 1 1 6329BD15
+P 4900 1050
+F 0 "MX_7" H 4772 945 50  0000 R CNN
+F 1 "MX_LED" H 4772 1012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 4950 1150 50  0001 C CNN
+F 3 "" H 4950 1150 50  0001 C CNN
+	1    4900 1050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_8
+U 1 1 6329C0BD
+P 5350 1050
+F 0 "MX_8" H 5222 945 50  0000 R CNN
+F 1 "MX_LED" H 5222 1012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 5400 1150 50  0001 C CNN
+F 3 "" H 5400 1150 50  0001 C CNN
+	1    5350 1050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_9
+U 1 1 6329C0C7
+P 5800 1050
+F 0 "MX_9" H 5672 945 50  0000 R CNN
+F 1 "MX_LED" H 5672 1012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 5850 1150 50  0001 C CNN
+F 3 "" H 5850 1150 50  0001 C CNN
+	1    5800 1050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_0
+U 1 1 6329C0D1
+P 6250 1050
+F 0 "MX_0" H 6122 945 50  0000 R CNN
+F 1 "MX_LED" H 6122 1012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 6300 1150 50  0001 C CNN
+F 3 "" H 6300 1150 50  0001 C CNN
+	1    6250 1050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_-1
+U 1 1 6329C0DB
+P 6700 1050
+F 0 "MX_-1" H 6572 945 50  0000 R CNN
+F 1 "MX_LED" H 6572 1012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 6750 1150 50  0001 C CNN
+F 3 "" H 6750 1150 50  0001 C CNN
+	1    6700 1050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_=1
+U 1 1 6329C0E5
+P 7150 1050
+F 0 "MX_=1" H 7022 945 50  0000 R CNN
+F 1 "MX_LED" H 7022 1012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 7200 1150 50  0001 C CNN
+F 3 "" H 7200 1150 50  0001 C CNN
+	1    7150 1050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_BS1
+U 1 1 6329C0EF
+P 7600 1050
+F 0 "MX_BS1" H 7472 945 50  0000 R CNN
+F 1 "MX_LED" H 7472 1012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 7650 1150 50  0001 C CNN
+F 3 "" H 7650 1150 50  0001 C CNN
+	1    7600 1050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_I1
+U 1 1 6329C0F9
+P 5350 1700
+F 0 "MX_I1" H 5222 1595 50  0000 R CNN
+F 1 "MX_LED" H 5222 1662 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 5400 1800 50  0001 C CNN
+F 3 "" H 5400 1800 50  0001 C CNN
+	1    5350 1700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_O1
+U 1 1 6329C103
+P 5800 1700
+F 0 "MX_O1" H 5672 1595 50  0000 R CNN
+F 1 "MX_LED" H 5672 1662 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 5850 1800 50  0001 C CNN
+F 3 "" H 5850 1800 50  0001 C CNN
+	1    5800 1700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_P1
+U 1 1 6329C10D
+P 6250 1700
+F 0 "MX_P1" H 6122 1595 50  0000 R CNN
+F 1 "MX_LED" H 6122 1662 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 6300 1800 50  0001 C CNN
+F 3 "" H 6300 1800 50  0001 C CNN
+	1    6250 1700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_[1
+U 1 1 6329C117
+P 6700 1700
+F 0 "MX_[1" H 6572 1595 50  0000 R CNN
+F 1 "MX_LED" H 6572 1662 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 6750 1800 50  0001 C CNN
+F 3 "" H 6750 1800 50  0001 C CNN
+	1    6700 1700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_]1
+U 1 1 6329C121
+P 7150 1700
+F 0 "MX_]1" H 7022 1595 50  0000 R CNN
+F 1 "MX_LED" H 7022 1662 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 7200 1800 50  0001 C CNN
+F 3 "" H 7200 1800 50  0001 C CNN
+	1    7150 1700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_\1
+U 1 1 6329C12B
+P 7600 1700
+F 0 "MX_\\1" H 7472 1595 50  0000 R CNN
+F 1 "MX_LED" H 7472 1662 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 7650 1800 50  0001 C CNN
+F 3 "" H 7650 1800 50  0001 C CNN
+	1    7600 1700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_J1
+U 1 1 6329C135
+P 5350 2350
+F 0 "MX_J1" H 5222 2245 50  0000 R CNN
+F 1 "MX_LED" H 5222 2312 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 5400 2450 50  0001 C CNN
+F 3 "" H 5400 2450 50  0001 C CNN
+	1    5350 2350
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_K1
+U 1 1 6329C13F
+P 5800 2350
+F 0 "MX_K1" H 5672 2245 50  0000 R CNN
+F 1 "MX_LED" H 5672 2312 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 5850 2450 50  0001 C CNN
+F 3 "" H 5850 2450 50  0001 C CNN
+	1    5800 2350
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_L1
+U 1 1 6329C149
+P 6250 2350
+F 0 "MX_L1" H 6122 2245 50  0000 R CNN
+F 1 "MX_LED" H 6122 2312 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 6300 2450 50  0001 C CNN
+F 3 "" H 6300 2450 50  0001 C CNN
+	1    6250 2350
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_;1
+U 1 1 6329C153
+P 6700 2350
+F 0 "MX_;1" H 6572 2245 50  0000 R CNN
+F 1 "MX_LED" H 6572 2312 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 6750 2450 50  0001 C CNN
+F 3 "" H 6750 2450 50  0001 C CNN
+	1    6700 2350
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_'1
+U 1 1 6329C15D
+P 7150 2350
+F 0 "MX_'1" H 7022 2245 50  0000 R CNN
+F 1 "MX_LED" H 7022 2312 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 7200 2450 50  0001 C CNN
+F 3 "" H 7200 2450 50  0001 C CNN
+	1    7150 2350
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_ENTER1
+U 1 1 6329C167
+P 7600 2350
+F 0 "MX_ENTER1" H 7472 2245 50  0000 R CNN
+F 1 "MX_LED" H 7472 2312 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 7650 2450 50  0001 C CNN
+F 3 "" H 7650 2450 50  0001 C CNN
+	1    7600 2350
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_M2
+U 1 1 6329C171
+P 5350 3050
+F 0 "MX_M2" H 5222 2945 50  0000 R CNN
+F 1 "MX_LED" H 5222 3012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 5400 3150 50  0001 C CNN
+F 3 "" H 5400 3150 50  0001 C CNN
+	1    5350 3050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_,1
+U 1 1 6329C17B
+P 5800 3050
+F 0 "MX_,1" H 5672 2945 50  0000 R CNN
+F 1 "MX_LED" H 5672 3012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 5850 3150 50  0001 C CNN
+F 3 "" H 5850 3150 50  0001 C CNN
+	1    5800 3050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_.1
+U 1 1 6329C185
+P 6250 3050
+F 0 "MX_.1" H 6122 2945 50  0000 R CNN
+F 1 "MX_LED" H 6122 3012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 6300 3150 50  0001 C CNN
+F 3 "" H 6300 3150 50  0001 C CNN
+	1    6250 3050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_/1
+U 1 1 6329C18F
+P 6700 3050
+F 0 "MX_/1" H 6572 2945 50  0000 R CNN
+F 1 "MX_LED" H 6572 3012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 6750 3150 50  0001 C CNN
+F 3 "" H 6750 3150 50  0001 C CNN
+	1    6700 3050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_RSHIFT1
+U 1 1 6329C199
+P 7150 3050
+F 0 "MX_RSHIFT1" H 7022 2945 50  0000 R CNN
+F 1 "MX_LED" H 7022 3012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 7200 3150 50  0001 C CNN
+F 3 "" H 7200 3150 50  0001 C CNN
+	1    7150 3050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_EXTRA1
+U 1 1 6329C1A3
+P 7600 3050
+F 0 "MX_EXTRA1" H 7472 2945 50  0000 R CNN
+F 1 "MX_LED" H 7472 3012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 7650 3150 50  0001 C CNN
+F 3 "" H 7650 3150 50  0001 C CNN
+	1    7600 3050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_SPACE4
+U 1 1 6329C1AD
+P 5800 3700
+F 0 "MX_SPACE4" H 5672 3595 50  0000 R CNN
+F 1 "MX_LED" H 5672 3662 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 5850 3800 50  0001 C CNN
+F 3 "" H 5850 3800 50  0001 C CNN
+	1    5800 3700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_RALT1
+U 1 1 6329C1B7
+P 6250 3700
+F 0 "MX_RALT1" H 6122 3595 50  0000 R CNN
+F 1 "MX_LED" H 6122 3662 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 6300 3800 50  0001 C CNN
+F 3 "" H 6300 3800 50  0001 C CNN
+	1    6250 3700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_RWIN1
+U 1 1 6329C1C1
+P 6700 3700
+F 0 "MX_RWIN1" H 6572 3595 50  0000 R CNN
+F 1 "MX_LED" H 6572 3662 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 6750 3800 50  0001 C CNN
+F 3 "" H 6750 3800 50  0001 C CNN
+	1    6700 3700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_M1
+U 1 1 6329C1CB
+P 7150 3700
+F 0 "MX_M1" H 7022 3595 50  0000 R CNN
+F 1 "MX_LED" H 7022 3662 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 7200 3800 50  0001 C CNN
+F 3 "" H 7200 3800 50  0001 C CNN
+	1    7150 3700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_RCTRL1
+U 1 1 6329C1D5
+P 7600 3700
+F 0 "MX_RCTRL1" H 7472 3595 50  0000 R CNN
+F 1 "MX_LED" H 7472 3662 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 7650 3800 50  0001 C CNN
+F 3 "" H 7650 3800 50  0001 C CNN
+	1    7600 3700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_U1
+U 1 1 632D9301
+P 4900 1700
+F 0 "MX_U1" H 4772 1595 50  0000 R CNN
+F 1 "MX_LED" H 4772 1662 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 4950 1800 50  0001 C CNN
+F 3 "" H 4950 1800 50  0001 C CNN
+	1    4900 1700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_Y1
+U 1 1 632D993E
+P 4450 1700
+F 0 "MX_Y1" H 4322 1595 50  0000 R CNN
+F 1 "MX_LED" H 4322 1662 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 4500 1800 50  0001 C CNN
+F 3 "" H 4500 1800 50  0001 C CNN
+	1    4450 1700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_H1
+U 1 1 632DA0B6
+P 4900 2350
+F 0 "MX_H1" H 4772 2245 50  0000 R CNN
+F 1 "MX_LED" H 4772 2312 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 4950 2450 50  0001 C CNN
+F 3 "" H 4950 2450 50  0001 C CNN
+	1    4900 2350
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_N1
+U 1 1 632DA684
+P 4900 3050
+F 0 "MX_N1" H 4772 2945 50  0000 R CNN
+F 1 "MX_LED" H 4772 3012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 4950 3150 50  0001 C CNN
+F 3 "" H 4950 3150 50  0001 C CNN
+	1    4900 3050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_SPACE3
+U 1 1 632DACB2
+P 5350 3700
+F 0 "MX_SPACE3" H 5222 3595 50  0000 R CNN
+F 1 "MX_LED" H 5222 3662 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 5400 3800 50  0001 C CNN
+F 3 "" H 5400 3800 50  0001 C CNN
+	1    5350 3700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_1
+U 1 1 63210A55
+P 1150 1050
+F 0 "MX_1" H 1022 945 50  0000 R CNN
+F 1 "MX_LED" H 1022 1012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 1200 1150 50  0001 C CNN
+F 3 "" H 1200 1150 50  0001 C CNN
+	1    1150 1050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_ESC1
+U 1 1 6320F285
+P 700 1050
+F 0 "MX_ESC1" H 572 945 50  0000 R CNN
+F 1 "MX_LED" H 572 1012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 750 1150 50  0001 C CNN
+F 3 "" H 750 1150 50  0001 C CNN
+	1    700  1050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_MOD1
+U 1 1 632EBA98
+P 2500 4350
+F 0 "MX_MOD1" H 2372 4245 50  0000 R CNN
+F 1 "MX_LED" H 2372 4312 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 2550 4450 50  0001 C CNN
+F 3 "" H 2550 4450 50  0001 C CNN
+	1    2500 4350
+	-1   0    0    1   
+$EndComp
+$Comp
+L kicad-keyboard-parts:MX_LED MX_MOD2
+U 1 1 632ECE72
+P 5350 4350
+F 0 "MX_MOD2" H 5222 4245 50  0000 R CNN
+F 1 "MX_LED" H 5222 4312 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 5400 4450 50  0001 C CNN
+F 3 "" H 5400 4450 50  0001 C CNN
+	1    5350 4350
+	-1   0    0    1   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D1
+U 1 1 63327D23
+P 750 700
+F 0 "D1" V 796 620 50  0000 R CNN
+F 1 "DIODE" V 705 620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 750 700 50  0001 C CNN
+F 3 "~" H 750 700 50  0001 C CNN
+F 4 "Y" H 750 700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 750 700 50  0001 L CNN "Spice_Primitive"
+	1    750  700 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D2
+U 1 1 633312F7
+P 1200 700
+F 0 "D2" V 1246 620 50  0000 R CNN
+F 1 "DIODE" V 1155 620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 1200 700 50  0001 C CNN
+F 3 "~" H 1200 700 50  0001 C CNN
+F 4 "Y" H 1200 700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 1200 700 50  0001 L CNN "Spice_Primitive"
+	1    1200 700 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D3
+U 1 1 6333199A
+P 1650 700
+F 0 "D3" V 1696 620 50  0000 R CNN
+F 1 "DIODE" V 1605 620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 1650 700 50  0001 C CNN
+F 3 "~" H 1650 700 50  0001 C CNN
+F 4 "Y" H 1650 700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 1650 700 50  0001 L CNN "Spice_Primitive"
+	1    1650 700 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D4
+U 1 1 63331CF1
+P 2100 700
+F 0 "D4" V 2146 620 50  0000 R CNN
+F 1 "DIODE" V 2055 620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 2100 700 50  0001 C CNN
+F 3 "~" H 2100 700 50  0001 C CNN
+F 4 "Y" H 2100 700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 2100 700 50  0001 L CNN "Spice_Primitive"
+	1    2100 700 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D5
+U 1 1 63332270
+P 2550 700
+F 0 "D5" V 2596 620 50  0000 R CNN
+F 1 "DIODE" V 2505 620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 2550 700 50  0001 C CNN
+F 3 "~" H 2550 700 50  0001 C CNN
+F 4 "Y" H 2550 700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 2550 700 50  0001 L CNN "Spice_Primitive"
+	1    2550 700 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D6
+U 1 1 6333278A
+P 3000 700
+F 0 "D6" V 3046 620 50  0000 R CNN
+F 1 "DIODE" V 2955 620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 3000 700 50  0001 C CNN
+F 3 "~" H 3000 700 50  0001 C CNN
+F 4 "Y" H 3000 700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 3000 700 50  0001 L CNN "Spice_Primitive"
+	1    3000 700 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D7
+U 1 1 63332D1B
+P 3450 700
+F 0 "D7" V 3496 620 50  0000 R CNN
+F 1 "DIODE" V 3405 620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 3450 700 50  0001 C CNN
+F 3 "~" H 3450 700 50  0001 C CNN
+F 4 "Y" H 3450 700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 3450 700 50  0001 L CNN "Spice_Primitive"
+	1    3450 700 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D8
+U 1 1 6333331E
+P 4950 700
+F 0 "D8" V 4996 620 50  0000 R CNN
+F 1 "DIODE" V 4905 620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 4950 700 50  0001 C CNN
+F 3 "~" H 4950 700 50  0001 C CNN
+F 4 "Y" H 4950 700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 4950 700 50  0001 L CNN "Spice_Primitive"
+	1    4950 700 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D9
+U 1 1 63333A5E
+P 5400 700
+F 0 "D9" V 5446 620 50  0000 R CNN
+F 1 "DIODE" V 5355 620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 5400 700 50  0001 C CNN
+F 3 "~" H 5400 700 50  0001 C CNN
+F 4 "Y" H 5400 700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 5400 700 50  0001 L CNN "Spice_Primitive"
+	1    5400 700 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D10
+U 1 1 633340B3
+P 5850 700
+F 0 "D10" V 5896 620 50  0000 R CNN
+F 1 "DIODE" V 5805 620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 5850 700 50  0001 C CNN
+F 3 "~" H 5850 700 50  0001 C CNN
+F 4 "Y" H 5850 700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 5850 700 50  0001 L CNN "Spice_Primitive"
+	1    5850 700 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D11
+U 1 1 6333449A
+P 6300 700
+F 0 "D11" V 6346 620 50  0000 R CNN
+F 1 "DIODE" V 6255 620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 6300 700 50  0001 C CNN
+F 3 "~" H 6300 700 50  0001 C CNN
+F 4 "Y" H 6300 700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 6300 700 50  0001 L CNN "Spice_Primitive"
+	1    6300 700 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D12
+U 1 1 63334A42
+P 6750 700
+F 0 "D12" V 6796 620 50  0000 R CNN
+F 1 "DIODE" V 6705 620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 6750 700 50  0001 C CNN
+F 3 "~" H 6750 700 50  0001 C CNN
+F 4 "Y" H 6750 700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 6750 700 50  0001 L CNN "Spice_Primitive"
+	1    6750 700 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D13
+U 1 1 63334F4C
+P 7200 700
+F 0 "D13" V 7246 620 50  0000 R CNN
+F 1 "DIODE" V 7155 620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 7200 700 50  0001 C CNN
+F 3 "~" H 7200 700 50  0001 C CNN
+F 4 "Y" H 7200 700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 7200 700 50  0001 L CNN "Spice_Primitive"
+	1    7200 700 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D14
+U 1 1 633354F4
+P 7650 700
+F 0 "D14" V 7696 620 50  0000 R CNN
+F 1 "DIODE" V 7605 620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 7650 700 50  0001 C CNN
+F 3 "~" H 7650 700 50  0001 C CNN
+F 4 "Y" H 7650 700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 7650 700 50  0001 L CNN "Spice_Primitive"
+	1    7650 700 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D15
+U 1 1 633DEC6B
+P 750 1350
+F 0 "D15" V 796 1270 50  0000 R CNN
+F 1 "DIODE" V 705 1270 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 750 1350 50  0001 C CNN
+F 3 "~" H 750 1350 50  0001 C CNN
+F 4 "Y" H 750 1350 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 750 1350 50  0001 L CNN "Spice_Primitive"
+	1    750  1350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D29
+U 1 1 633DF228
+P 750 2000
+F 0 "D29" V 796 1920 50  0000 R CNN
+F 1 "DIODE" V 705 1920 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 750 2000 50  0001 C CNN
+F 3 "~" H 750 2000 50  0001 C CNN
+F 4 "Y" H 750 2000 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 750 2000 50  0001 L CNN "Spice_Primitive"
+	1    750  2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D42
+U 1 1 633DF7B4
+P 750 2700
+F 0 "D42" V 796 2620 50  0000 R CNN
+F 1 "DIODE" V 705 2620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 750 2700 50  0001 C CNN
+F 3 "~" H 750 2700 50  0001 C CNN
+F 4 "Y" H 750 2700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 750 2700 50  0001 L CNN "Spice_Primitive"
+	1    750  2700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D55
+U 1 1 633DFE45
+P 750 3350
+F 0 "D55" V 796 3270 50  0000 R CNN
+F 1 "DIODE" V 705 3270 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 750 3350 50  0001 C CNN
+F 3 "~" H 750 3350 50  0001 C CNN
+F 4 "Y" H 750 3350 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 750 3350 50  0001 L CNN "Spice_Primitive"
+	1    750  3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D22
+U 1 1 633ED260
+P 4950 1350
+F 0 "D22" V 4996 1270 50  0000 R CNN
+F 1 "DIODE" V 4905 1270 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 4950 1350 50  0001 C CNN
+F 3 "~" H 4950 1350 50  0001 C CNN
+F 4 "Y" H 4950 1350 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 4950 1350 50  0001 L CNN "Spice_Primitive"
+	1    4950 1350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D23
+U 1 1 633ED268
+P 5400 1350
+F 0 "D23" V 5446 1270 50  0000 R CNN
+F 1 "DIODE" V 5355 1270 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 5400 1350 50  0001 C CNN
+F 3 "~" H 5400 1350 50  0001 C CNN
+F 4 "Y" H 5400 1350 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 5400 1350 50  0001 L CNN "Spice_Primitive"
+	1    5400 1350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D24
+U 1 1 633ED270
+P 5850 1350
+F 0 "D24" V 5896 1270 50  0000 R CNN
+F 1 "DIODE" V 5805 1270 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 5850 1350 50  0001 C CNN
+F 3 "~" H 5850 1350 50  0001 C CNN
+F 4 "Y" H 5850 1350 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 5850 1350 50  0001 L CNN "Spice_Primitive"
+	1    5850 1350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D25
+U 1 1 633ED278
+P 6300 1350
+F 0 "D25" V 6346 1270 50  0000 R CNN
+F 1 "DIODE" V 6255 1270 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 6300 1350 50  0001 C CNN
+F 3 "~" H 6300 1350 50  0001 C CNN
+F 4 "Y" H 6300 1350 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 6300 1350 50  0001 L CNN "Spice_Primitive"
+	1    6300 1350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D26
+U 1 1 633ED280
+P 6750 1350
+F 0 "D26" V 6796 1270 50  0000 R CNN
+F 1 "DIODE" V 6705 1270 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 6750 1350 50  0001 C CNN
+F 3 "~" H 6750 1350 50  0001 C CNN
+F 4 "Y" H 6750 1350 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 6750 1350 50  0001 L CNN "Spice_Primitive"
+	1    6750 1350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D27
+U 1 1 633ED288
+P 7200 1350
+F 0 "D27" V 7246 1270 50  0000 R CNN
+F 1 "DIODE" V 7155 1270 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 7200 1350 50  0001 C CNN
+F 3 "~" H 7200 1350 50  0001 C CNN
+F 4 "Y" H 7200 1350 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 7200 1350 50  0001 L CNN "Spice_Primitive"
+	1    7200 1350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D28
+U 1 1 633ED290
+P 7650 1350
+F 0 "D28" V 7696 1270 50  0000 R CNN
+F 1 "DIODE" V 7605 1270 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 7650 1350 50  0001 C CNN
+F 3 "~" H 7650 1350 50  0001 C CNN
+F 4 "Y" H 7650 1350 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 7650 1350 50  0001 L CNN "Spice_Primitive"
+	1    7650 1350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D35
+U 1 1 633F081F
+P 4950 2000
+F 0 "D35" V 4996 1920 50  0000 R CNN
+F 1 "DIODE" V 4905 1920 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 4950 2000 50  0001 C CNN
+F 3 "~" H 4950 2000 50  0001 C CNN
+F 4 "Y" H 4950 2000 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 4950 2000 50  0001 L CNN "Spice_Primitive"
+	1    4950 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D36
+U 1 1 633F0827
+P 5400 2000
+F 0 "D36" V 5446 1920 50  0000 R CNN
+F 1 "DIODE" V 5355 1920 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 5400 2000 50  0001 C CNN
+F 3 "~" H 5400 2000 50  0001 C CNN
+F 4 "Y" H 5400 2000 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 5400 2000 50  0001 L CNN "Spice_Primitive"
+	1    5400 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D37
+U 1 1 633F082F
+P 5850 2000
+F 0 "D37" V 5896 1920 50  0000 R CNN
+F 1 "DIODE" V 5805 1920 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 5850 2000 50  0001 C CNN
+F 3 "~" H 5850 2000 50  0001 C CNN
+F 4 "Y" H 5850 2000 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 5850 2000 50  0001 L CNN "Spice_Primitive"
+	1    5850 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D38
+U 1 1 633F0837
+P 6300 2000
+F 0 "D38" V 6346 1920 50  0000 R CNN
+F 1 "DIODE" V 6255 1920 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 6300 2000 50  0001 C CNN
+F 3 "~" H 6300 2000 50  0001 C CNN
+F 4 "Y" H 6300 2000 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 6300 2000 50  0001 L CNN "Spice_Primitive"
+	1    6300 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D39
+U 1 1 633F083F
+P 6750 2000
+F 0 "D39" V 6796 1920 50  0000 R CNN
+F 1 "DIODE" V 6705 1920 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 6750 2000 50  0001 C CNN
+F 3 "~" H 6750 2000 50  0001 C CNN
+F 4 "Y" H 6750 2000 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 6750 2000 50  0001 L CNN "Spice_Primitive"
+	1    6750 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D40
+U 1 1 633F0847
+P 7200 2000
+F 0 "D40" V 7246 1920 50  0000 R CNN
+F 1 "DIODE" V 7155 1920 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 7200 2000 50  0001 C CNN
+F 3 "~" H 7200 2000 50  0001 C CNN
+F 4 "Y" H 7200 2000 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 7200 2000 50  0001 L CNN "Spice_Primitive"
+	1    7200 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D41
+U 1 1 633F084F
+P 7650 2000
+F 0 "D41" V 7696 1920 50  0000 R CNN
+F 1 "DIODE" V 7605 1920 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 7650 2000 50  0001 C CNN
+F 3 "~" H 7650 2000 50  0001 C CNN
+F 4 "Y" H 7650 2000 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 7650 2000 50  0001 L CNN "Spice_Primitive"
+	1    7650 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D48
+U 1 1 633F2D51
+P 4950 2700
+F 0 "D48" V 4996 2620 50  0000 R CNN
+F 1 "DIODE" V 4905 2620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 4950 2700 50  0001 C CNN
+F 3 "~" H 4950 2700 50  0001 C CNN
+F 4 "Y" H 4950 2700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 4950 2700 50  0001 L CNN "Spice_Primitive"
+	1    4950 2700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D49
+U 1 1 633F2D59
+P 5400 2700
+F 0 "D49" V 5446 2620 50  0000 R CNN
+F 1 "DIODE" V 5355 2620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 5400 2700 50  0001 C CNN
+F 3 "~" H 5400 2700 50  0001 C CNN
+F 4 "Y" H 5400 2700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 5400 2700 50  0001 L CNN "Spice_Primitive"
+	1    5400 2700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D50
+U 1 1 633F2D61
+P 5850 2700
+F 0 "D50" V 5896 2620 50  0000 R CNN
+F 1 "DIODE" V 5805 2620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 5850 2700 50  0001 C CNN
+F 3 "~" H 5850 2700 50  0001 C CNN
+F 4 "Y" H 5850 2700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 5850 2700 50  0001 L CNN "Spice_Primitive"
+	1    5850 2700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D51
+U 1 1 633F2D69
+P 6300 2700
+F 0 "D51" V 6346 2620 50  0000 R CNN
+F 1 "DIODE" V 6255 2620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 6300 2700 50  0001 C CNN
+F 3 "~" H 6300 2700 50  0001 C CNN
+F 4 "Y" H 6300 2700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 6300 2700 50  0001 L CNN "Spice_Primitive"
+	1    6300 2700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D52
+U 1 1 633F2D71
+P 6750 2700
+F 0 "D52" V 6796 2620 50  0000 R CNN
+F 1 "DIODE" V 6705 2620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 6750 2700 50  0001 C CNN
+F 3 "~" H 6750 2700 50  0001 C CNN
+F 4 "Y" H 6750 2700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 6750 2700 50  0001 L CNN "Spice_Primitive"
+	1    6750 2700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D53
+U 1 1 633F2D79
+P 7200 2700
+F 0 "D53" V 7246 2620 50  0000 R CNN
+F 1 "DIODE" V 7155 2620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 7200 2700 50  0001 C CNN
+F 3 "~" H 7200 2700 50  0001 C CNN
+F 4 "Y" H 7200 2700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 7200 2700 50  0001 L CNN "Spice_Primitive"
+	1    7200 2700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D54
+U 1 1 633F2D81
+P 7650 2700
+F 0 "D54" V 7696 2620 50  0000 R CNN
+F 1 "DIODE" V 7605 2620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 7650 2700 50  0001 C CNN
+F 3 "~" H 7650 2700 50  0001 C CNN
+F 4 "Y" H 7650 2700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 7650 2700 50  0001 L CNN "Spice_Primitive"
+	1    7650 2700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D60
+U 1 1 633F60F5
+P 5400 3350
+F 0 "D60" V 5446 3270 50  0000 R CNN
+F 1 "DIODE" V 5355 3270 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 5400 3350 50  0001 C CNN
+F 3 "~" H 5400 3350 50  0001 C CNN
+F 4 "Y" H 5400 3350 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 5400 3350 50  0001 L CNN "Spice_Primitive"
+	1    5400 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D61
+U 1 1 633F60FD
+P 5850 3350
+F 0 "D61" V 5896 3270 50  0000 R CNN
+F 1 "DIODE" V 5805 3270 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 5850 3350 50  0001 C CNN
+F 3 "~" H 5850 3350 50  0001 C CNN
+F 4 "Y" H 5850 3350 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 5850 3350 50  0001 L CNN "Spice_Primitive"
+	1    5850 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D62
+U 1 1 633F6105
+P 6300 3350
+F 0 "D62" V 6346 3270 50  0000 R CNN
+F 1 "DIODE" V 6255 3270 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 6300 3350 50  0001 C CNN
+F 3 "~" H 6300 3350 50  0001 C CNN
+F 4 "Y" H 6300 3350 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 6300 3350 50  0001 L CNN "Spice_Primitive"
+	1    6300 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D63
+U 1 1 633F610D
+P 6750 3350
+F 0 "D63" V 6796 3270 50  0000 R CNN
+F 1 "DIODE" V 6705 3270 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 6750 3350 50  0001 C CNN
+F 3 "~" H 6750 3350 50  0001 C CNN
+F 4 "Y" H 6750 3350 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 6750 3350 50  0001 L CNN "Spice_Primitive"
+	1    6750 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D64
+U 1 1 633F6115
+P 7200 3350
+F 0 "D64" V 7246 3270 50  0000 R CNN
+F 1 "DIODE" V 7155 3270 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 7200 3350 50  0001 C CNN
+F 3 "~" H 7200 3350 50  0001 C CNN
+F 4 "Y" H 7200 3350 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 7200 3350 50  0001 L CNN "Spice_Primitive"
+	1    7200 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D65
+U 1 1 633F611D
+P 7650 3350
+F 0 "D65" V 7696 3270 50  0000 R CNN
+F 1 "DIODE" V 7605 3270 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 7650 3350 50  0001 C CNN
+F 3 "~" H 7650 3350 50  0001 C CNN
+F 4 "Y" H 7650 3350 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 7650 3350 50  0001 L CNN "Spice_Primitive"
+	1    7650 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D16
+U 1 1 633FEBCE
+P 1200 1350
+F 0 "D16" V 1246 1270 50  0000 R CNN
+F 1 "DIODE" V 1155 1270 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 1200 1350 50  0001 C CNN
+F 3 "~" H 1200 1350 50  0001 C CNN
+F 4 "Y" H 1200 1350 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 1200 1350 50  0001 L CNN "Spice_Primitive"
+	1    1200 1350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D17
+U 1 1 633FEBD6
+P 1650 1350
+F 0 "D17" V 1696 1270 50  0000 R CNN
+F 1 "DIODE" V 1605 1270 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 1650 1350 50  0001 C CNN
+F 3 "~" H 1650 1350 50  0001 C CNN
+F 4 "Y" H 1650 1350 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 1650 1350 50  0001 L CNN "Spice_Primitive"
+	1    1650 1350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D18
+U 1 1 633FEBDE
+P 2100 1350
+F 0 "D18" V 2146 1270 50  0000 R CNN
+F 1 "DIODE" V 2055 1270 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 2100 1350 50  0001 C CNN
+F 3 "~" H 2100 1350 50  0001 C CNN
+F 4 "Y" H 2100 1350 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 2100 1350 50  0001 L CNN "Spice_Primitive"
+	1    2100 1350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D19
+U 1 1 633FEBE6
+P 2550 1350
+F 0 "D19" V 2596 1270 50  0000 R CNN
+F 1 "DIODE" V 2505 1270 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 2550 1350 50  0001 C CNN
+F 3 "~" H 2550 1350 50  0001 C CNN
+F 4 "Y" H 2550 1350 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 2550 1350 50  0001 L CNN "Spice_Primitive"
+	1    2550 1350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D20
+U 1 1 633FEBEE
+P 3000 1350
+F 0 "D20" V 3046 1270 50  0000 R CNN
+F 1 "DIODE" V 2955 1270 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 3000 1350 50  0001 C CNN
+F 3 "~" H 3000 1350 50  0001 C CNN
+F 4 "Y" H 3000 1350 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 3000 1350 50  0001 L CNN "Spice_Primitive"
+	1    3000 1350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D30
+U 1 1 63401434
+P 1200 2000
+F 0 "D30" V 1246 1920 50  0000 R CNN
+F 1 "DIODE" V 1155 1920 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 1200 2000 50  0001 C CNN
+F 3 "~" H 1200 2000 50  0001 C CNN
+F 4 "Y" H 1200 2000 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 1200 2000 50  0001 L CNN "Spice_Primitive"
+	1    1200 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D31
+U 1 1 6340143C
+P 1650 2000
+F 0 "D31" V 1696 1920 50  0000 R CNN
+F 1 "DIODE" V 1605 1920 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 1650 2000 50  0001 C CNN
+F 3 "~" H 1650 2000 50  0001 C CNN
+F 4 "Y" H 1650 2000 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 1650 2000 50  0001 L CNN "Spice_Primitive"
+	1    1650 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D32
+U 1 1 63401444
+P 2100 2000
+F 0 "D32" V 2146 1920 50  0000 R CNN
+F 1 "DIODE" V 2055 1920 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 2100 2000 50  0001 C CNN
+F 3 "~" H 2100 2000 50  0001 C CNN
+F 4 "Y" H 2100 2000 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 2100 2000 50  0001 L CNN "Spice_Primitive"
+	1    2100 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D33
+U 1 1 6340144C
+P 2550 2000
+F 0 "D33" V 2596 1920 50  0000 R CNN
+F 1 "DIODE" V 2505 1920 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 2550 2000 50  0001 C CNN
+F 3 "~" H 2550 2000 50  0001 C CNN
+F 4 "Y" H 2550 2000 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 2550 2000 50  0001 L CNN "Spice_Primitive"
+	1    2550 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D34
+U 1 1 63401454
+P 3000 2000
+F 0 "D34" V 3046 1920 50  0000 R CNN
+F 1 "DIODE" V 2955 1920 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 3000 2000 50  0001 C CNN
+F 3 "~" H 3000 2000 50  0001 C CNN
+F 4 "Y" H 3000 2000 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 3000 2000 50  0001 L CNN "Spice_Primitive"
+	1    3000 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D43
+U 1 1 634040E3
+P 1200 2700
+F 0 "D43" V 1246 2620 50  0000 R CNN
+F 1 "DIODE" V 1155 2620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 1200 2700 50  0001 C CNN
+F 3 "~" H 1200 2700 50  0001 C CNN
+F 4 "Y" H 1200 2700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 1200 2700 50  0001 L CNN "Spice_Primitive"
+	1    1200 2700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D44
+U 1 1 634040EB
+P 1650 2700
+F 0 "D44" V 1696 2620 50  0000 R CNN
+F 1 "DIODE" V 1605 2620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 1650 2700 50  0001 C CNN
+F 3 "~" H 1650 2700 50  0001 C CNN
+F 4 "Y" H 1650 2700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 1650 2700 50  0001 L CNN "Spice_Primitive"
+	1    1650 2700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D45
+U 1 1 634040F3
+P 2100 2700
+F 0 "D45" V 2146 2620 50  0000 R CNN
+F 1 "DIODE" V 2055 2620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 2100 2700 50  0001 C CNN
+F 3 "~" H 2100 2700 50  0001 C CNN
+F 4 "Y" H 2100 2700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 2100 2700 50  0001 L CNN "Spice_Primitive"
+	1    2100 2700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D46
+U 1 1 634040FB
+P 2550 2700
+F 0 "D46" V 2596 2620 50  0000 R CNN
+F 1 "DIODE" V 2505 2620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 2550 2700 50  0001 C CNN
+F 3 "~" H 2550 2700 50  0001 C CNN
+F 4 "Y" H 2550 2700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 2550 2700 50  0001 L CNN "Spice_Primitive"
+	1    2550 2700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D47
+U 1 1 63404103
+P 3000 2700
+F 0 "D47" V 3046 2620 50  0000 R CNN
+F 1 "DIODE" V 2955 2620 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 3000 2700 50  0001 C CNN
+F 3 "~" H 3000 2700 50  0001 C CNN
+F 4 "Y" H 3000 2700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 3000 2700 50  0001 L CNN "Spice_Primitive"
+	1    3000 2700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D56
+U 1 1 6340F902
+P 1200 3350
+F 0 "D56" V 1246 3270 50  0000 R CNN
+F 1 "DIODE" V 1155 3270 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 1200 3350 50  0001 C CNN
+F 3 "~" H 1200 3350 50  0001 C CNN
+F 4 "Y" H 1200 3350 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 1200 3350 50  0001 L CNN "Spice_Primitive"
+	1    1200 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D57
+U 1 1 6340F90A
+P 1650 3350
+F 0 "D57" V 1696 3270 50  0000 R CNN
+F 1 "DIODE" V 1605 3270 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 1650 3350 50  0001 C CNN
+F 3 "~" H 1650 3350 50  0001 C CNN
+F 4 "Y" H 1650 3350 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 1650 3350 50  0001 L CNN "Spice_Primitive"
+	1    1650 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D58
+U 1 1 6340F912
+P 2100 3350
+F 0 "D58" V 2146 3270 50  0000 R CNN
+F 1 "DIODE" V 2055 3270 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 2100 3350 50  0001 C CNN
+F 3 "~" H 2100 3350 50  0001 C CNN
+F 4 "Y" H 2100 3350 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 2100 3350 50  0001 L CNN "Spice_Primitive"
+	1    2100 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D59
+U 1 1 6340F91A
+P 2550 3350
+F 0 "D59" V 2596 3270 50  0000 R CNN
+F 1 "DIODE" V 2505 3270 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 2550 3350 50  0001 C CNN
+F 3 "~" H 2550 3350 50  0001 C CNN
+F 4 "Y" H 2550 3350 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 2550 3350 50  0001 L CNN "Spice_Primitive"
+	1    2550 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D21
+U 1 1 6340FC0A
+P 4500 1350
+F 0 "D21" V 4546 1270 50  0000 R CNN
+F 1 "DIODE" V 4455 1270 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 4500 1350 50  0001 C CNN
+F 3 "~" H 4500 1350 50  0001 C CNN
+F 4 "Y" H 4500 1350 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 4500 1350 50  0001 L CNN "Spice_Primitive"
+	1    4500 1350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D66
+U 1 1 634100AD
+P 2550 4000
+F 0 "D66" V 2596 3920 50  0000 R CNN
+F 1 "DIODE" V 2505 3920 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 2550 4000 50  0001 C CNN
+F 3 "~" H 2550 4000 50  0001 C CNN
+F 4 "Y" H 2550 4000 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 2550 4000 50  0001 L CNN "Spice_Primitive"
+	1    2550 4000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Simulation_SPICE:DIODE D67
+U 1 1 634108F3
+P 5400 4000
+F 0 "D67" V 5446 3920 50  0000 R CNN
+F 1 "DIODE" V 5355 3920 50  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 5400 4000 50  0001 C CNN
+F 3 "~" H 5400 4000 50  0001 C CNN
+F 4 "Y" H 5400 4000 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "D" H 5400 4000 50  0001 L CNN "Spice_Primitive"
+	1    5400 4000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	600  1200 750  1200
+Connection ~ 750  1200
+Wire Wire Line
+	750  1200 1200 1200
+Connection ~ 1200 1200
+Wire Wire Line
+	1200 1200 1650 1200
+Connection ~ 1650 1200
+Wire Wire Line
+	1650 1200 2100 1200
+Connection ~ 2100 1200
+Wire Wire Line
+	2100 1200 2550 1200
+Connection ~ 2550 1200
+Wire Wire Line
+	2550 1200 3000 1200
+Wire Wire Line
+	650  550  750  550 
+Connection ~ 750  550 
+Wire Wire Line
+	750  550  1200 550 
+Connection ~ 1200 550 
+Wire Wire Line
+	1200 550  1650 550 
+Connection ~ 1650 550 
+Wire Wire Line
+	1650 550  2100 550 
+Connection ~ 2100 550 
+Wire Wire Line
+	2100 550  2550 550 
+Connection ~ 2550 550 
+Wire Wire Line
+	2550 550  3000 550 
+Connection ~ 3000 550 
+Wire Wire Line
+	3000 550  3450 550 
+Wire Wire Line
+	7650 550  7200 550 
+Connection ~ 5400 550 
+Wire Wire Line
+	5400 550  4950 550 
+Connection ~ 5850 550 
+Wire Wire Line
+	5850 550  5400 550 
+Connection ~ 6300 550 
+Wire Wire Line
+	6300 550  5850 550 
+Connection ~ 6750 550 
+Wire Wire Line
+	6750 550  6300 550 
+Connection ~ 7200 550 
+Wire Wire Line
+	7200 550  6750 550 
+Wire Wire Line
+	7650 1200 7200 1200
+Connection ~ 4950 1200
+Wire Wire Line
+	4950 1200 4500 1200
+Connection ~ 5400 1200
+Wire Wire Line
+	5400 1200 4950 1200
+Connection ~ 5850 1200
+Wire Wire Line
+	5850 1200 5400 1200
+Connection ~ 6300 1200
+Wire Wire Line
+	6300 1200 5850 1200
+Connection ~ 6750 1200
+Wire Wire Line
+	6750 1200 6300 1200
+Connection ~ 7200 1200
+Wire Wire Line
+	7200 1200 6750 1200
+Wire Wire Line
+	7650 1850 7200 1850
+Connection ~ 5400 1850
+Wire Wire Line
+	5400 1850 4950 1850
+Connection ~ 5850 1850
+Wire Wire Line
+	5850 1850 5400 1850
+Connection ~ 6300 1850
+Wire Wire Line
+	6300 1850 5850 1850
+Connection ~ 6750 1850
+Wire Wire Line
+	6750 1850 6300 1850
+Connection ~ 7200 1850
+Wire Wire Line
+	7200 1850 6750 1850
+Wire Wire Line
+	7650 2550 7200 2550
+Connection ~ 5400 2550
+Wire Wire Line
+	5400 2550 4950 2550
+Connection ~ 5850 2550
+Wire Wire Line
+	5850 2550 5400 2550
+Connection ~ 6300 2550
+Wire Wire Line
+	6300 2550 5850 2550
+Connection ~ 6750 2550
+Wire Wire Line
+	6750 2550 6300 2550
+Connection ~ 7200 2550
+Wire Wire Line
+	7200 2550 6750 2550
+Wire Wire Line
+	7650 3200 7200 3200
+Connection ~ 5850 3200
+Wire Wire Line
+	5850 3200 5400 3200
+Connection ~ 6300 3200
+Wire Wire Line
+	6300 3200 5850 3200
+Connection ~ 6750 3200
+Wire Wire Line
+	6750 3200 6300 3200
+Connection ~ 7200 3200
+Wire Wire Line
+	7200 3200 6750 3200
+Wire Wire Line
+	750  1850 1200 1850
+Connection ~ 1200 1850
+Wire Wire Line
+	1200 1850 1650 1850
+Connection ~ 1650 1850
+Wire Wire Line
+	1650 1850 2100 1850
+Connection ~ 2100 1850
+Wire Wire Line
+	2100 1850 2550 1850
+Connection ~ 2550 1850
+Wire Wire Line
+	2550 1850 3000 1850
+Wire Wire Line
+	750  2550 1200 2550
+Connection ~ 1200 2550
+Wire Wire Line
+	1200 2550 1650 2550
+Connection ~ 1650 2550
+Wire Wire Line
+	1650 2550 2100 2550
+Connection ~ 2100 2550
+Wire Wire Line
+	2100 2550 2550 2550
+Connection ~ 2550 2550
+Wire Wire Line
+	2550 2550 3000 2550
+Wire Wire Line
+	750  3200 1200 3200
+Connection ~ 1200 3200
+Wire Wire Line
+	1200 3200 1650 3200
+Connection ~ 1650 3200
+Wire Wire Line
+	1650 3200 2100 3200
+Connection ~ 2100 3200
+Wire Wire Line
+	2100 3200 2550 3200
+Wire Wire Line
+	2550 3200 3000 3200
+Wire Wire Line
+	3000 3200 3000 3850
+Connection ~ 2550 3200
+Wire Wire Line
+	5400 3200 4950 3200
+Wire Wire Line
+	4950 3200 4950 3850
+Wire Wire Line
+	4950 3850 5400 3850
+Connection ~ 5400 3200
+Wire Wire Line
+	3000 3850 2550 3850
+Wire Wire Line
+	550  1050 550  1700
+Connection ~ 550  1700
+Wire Wire Line
+	550  1700 550  2350
+Connection ~ 550  2350
+Wire Wire Line
+	550  2350 550  3050
+Connection ~ 550  3050
+Wire Wire Line
+	550  3050 550  3700
+Wire Wire Line
+	1000 3700 1000 3050
+Connection ~ 1000 1700
+Wire Wire Line
+	1000 1700 1000 1050
+Connection ~ 1000 2350
+Wire Wire Line
+	1000 2350 1000 1700
+Connection ~ 1000 3050
+Wire Wire Line
+	1000 3050 1000 2350
+Wire Wire Line
+	1450 1050 1450 1700
+Connection ~ 1450 1700
+Wire Wire Line
+	1450 1700 1450 2350
+Connection ~ 1450 2350
+Wire Wire Line
+	1450 2350 1450 3050
+Connection ~ 1450 3050
+Wire Wire Line
+	1450 3050 1450 3700
+Wire Wire Line
+	1900 3700 1900 3050
+Connection ~ 1900 1700
+Wire Wire Line
+	1900 1700 1900 1050
+Connection ~ 1900 2350
+Wire Wire Line
+	1900 2350 1900 1700
+Connection ~ 1900 3050
+Wire Wire Line
+	1900 3050 1900 2350
+Wire Wire Line
+	2350 1050 2350 1700
+Connection ~ 2350 1700
+Wire Wire Line
+	2350 1700 2350 2350
+Connection ~ 2350 2350
+Wire Wire Line
+	2350 2350 2350 3050
+Connection ~ 2350 3050
+Wire Wire Line
+	2350 3050 2350 3700
+Wire Wire Line
+	2800 3050 2800 2350
+Connection ~ 2800 1700
+Wire Wire Line
+	2800 1700 2800 1050
+Connection ~ 2800 2350
+Wire Wire Line
+	2800 2350 2800 1700
+Wire Wire Line
+	7450 1050 7450 1700
+Connection ~ 7450 1700
+Wire Wire Line
+	7450 1700 7450 2350
+Connection ~ 7450 2350
+Wire Wire Line
+	7450 2350 7450 3050
+Connection ~ 7450 3050
+Wire Wire Line
+	7450 3050 7450 3700
+Wire Wire Line
+	7000 3700 7000 3050
+Connection ~ 7000 1700
+Wire Wire Line
+	7000 1700 7000 1050
+Connection ~ 7000 2350
+Wire Wire Line
+	7000 2350 7000 1700
+Connection ~ 7000 3050
+Wire Wire Line
+	7000 3050 7000 2350
+Wire Wire Line
+	6550 1050 6550 1700
+Connection ~ 6550 1700
+Wire Wire Line
+	6550 1700 6550 2350
+Connection ~ 6550 2350
+Wire Wire Line
+	6550 2350 6550 3050
+Connection ~ 6550 3050
+Wire Wire Line
+	6550 3050 6550 3700
+Wire Wire Line
+	6100 3700 6100 3050
+Connection ~ 6100 1700
+Wire Wire Line
+	6100 1700 6100 1050
+Connection ~ 6100 2350
+Wire Wire Line
+	6100 2350 6100 1700
+Connection ~ 6100 3050
+Wire Wire Line
+	6100 3050 6100 2350
+Wire Wire Line
+	5650 1050 5650 1700
+Connection ~ 5650 1700
+Wire Wire Line
+	5650 1700 5650 2350
+Connection ~ 5650 2350
+Wire Wire Line
+	5650 2350 5650 3050
+Connection ~ 5650 3050
+Wire Wire Line
+	5650 3050 5650 3700
+Connection ~ 5200 1700
+Wire Wire Line
+	5200 1700 5200 1050
+Connection ~ 5200 2350
+Wire Wire Line
+	5200 2350 5200 1700
+Connection ~ 5200 3050
+Wire Wire Line
+	5200 3050 5200 2350
+Wire Wire Line
+	5200 3700 5200 3050
+Wire Wire Line
+	4750 1050 4750 1700
+Connection ~ 4750 1700
+Wire Wire Line
+	4750 1700 4750 2350
+Connection ~ 4750 2350
+Wire Wire Line
+	4750 2350 4750 3050
+Wire Wire Line
+	2800 3050 2800 4500
+Wire Wire Line
+	2800 4500 2350 4500
+Wire Wire Line
+	2350 4500 2350 4350
+Connection ~ 2800 3050
+Wire Wire Line
+	4750 3050 4750 4350
+Wire Wire Line
+	4750 4350 5200 4350
+Connection ~ 4750 3050
+$EndSCHEMATC
