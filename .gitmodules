@@ -1,0 +1,6 @@
+[submodule "libraries/kicad-keyboard-parts.pretty"]
+	path = libraries/kicad-keyboard-parts.pretty
+	url = https://github.com/ebastler/kicad-keyboard-parts.pretty.git
+[submodule "libraries/kbd"]
+	path = libraries/kbd
+	url = https://github.com/foostan/kbd.git
