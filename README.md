@@ -1,5 +1,4 @@
 # spire60split
-
 This is the repo for a 60% low profile split keyboard.
 
 ## Key sizing
@@ -15,3 +14,6 @@ Sizes not included in choc layouts:
 Layout was designed in http://www.keyboard-layout-editor.com/#/ and then imported the raw data from there onto https://builder.mrkeebs.com/ where the pcb file for KiCad was downloaded.
 
 The layout information can be found inside the layout folder.
+
+### Split layout
+QMK documentation for split keyboards can be found here https://github.com/qmk/qmk_firmware/blob/master/docs/feature_split_keyboard.md
