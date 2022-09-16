@@ -531,10 +531,10 @@ F 3 "" H 7650 2450 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_M2
+L kicad-keyboard-parts:MX_LED MX_M1
 U 1 1 6329C171
 P 5350 3050
-F 0 "MX_M2" H 5222 2945 50  0000 R CNN
+F 0 "MX_M1" H 5222 2945 50  0000 R CNN
 F 1 "MX_LED" H 5222 3012 20  0000 R CNN
 F 2 "kbd:CherryMX_Choc_1u" H 5400 3150 50  0001 C CNN
 F 3 "" H 5400 3150 50  0001 C CNN
@@ -630,10 +630,10 @@ F 3 "" H 6750 3800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_M1
+L kicad-keyboard-parts:MX_LED MX_MACRO1
 U 1 1 6329C1CB
 P 7150 3700
-F 0 "MX_M1" H 7022 3595 50  0000 R CNN
+F 0 "MX_MACRO1" H 7022 3595 50  0000 R CNN
 F 1 "MX_LED" H 7022 3662 20  0000 R CNN
 F 2 "kbd:CherryMX_Choc_1u" H 7200 3800 50  0001 C CNN
 F 3 "" H 7200 3800 50  0001 C CNN
@@ -715,17 +715,6 @@ F 1 "MX_LED" H 1022 1012 20  0000 R CNN
 F 2 "kbd:CherryMX_Choc_1u" H 1200 1150 50  0001 C CNN
 F 3 "" H 1200 1150 50  0001 C CNN
 	1    1150 1050
-	-1   0    0    1   
-$EndComp
-$Comp
-L kicad-keyboard-parts:MX_LED MX_ESC1
-U 1 1 6320F285
-P 700 1050
-F 0 "MX_ESC1" H 572 945 50  0000 R CNN
-F 1 "MX_LED" H 572 1012 20  0000 R CNN
-F 2 "kbd:CherryMX_Choc_1u" H 750 1150 50  0001 C CNN
-F 3 "" H 750 1150 50  0001 C CNN
-	1    700  1050
 	-1   0    0    1   
 $EndComp
 $Comp
@@ -1614,7 +1603,7 @@ U 1 1 634108F3
 P 5400 4000
 F 0 "D67" V 5446 3920 50  0000 R CNN
 F 1 "DIODE" V 5355 3920 50  0000 R CNN
-F 2 "kbd:CherryMX_Choc_1u" H 5400 4000 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5400 4000 50  0001 C CNN
 F 3 "~" H 5400 4000 50  0001 C CNN
 F 4 "Y" H 5400 4000 50  0001 L CNN "Spice_Netlist_Enabled"
 F 5 "D" H 5400 4000 50  0001 L CNN "Spice_Primitive"
@@ -1788,8 +1777,6 @@ Wire Wire Line
 	3000 3200 3000 3850
 Connection ~ 2550 3200
 Wire Wire Line
-	5400 3200 4950 3200
-Wire Wire Line
 	4950 3200 4950 3850
 Wire Wire Line
 	4950 3850 5400 3850
@@ -1920,11 +1907,6 @@ Wire Wire Line
 Connection ~ 5200 2350
 Wire Wire Line
 	5200 2350 5200 1700
-Connection ~ 5200 3050
-Wire Wire Line
-	5200 3050 5200 2350
-Wire Wire Line
-	5200 3700 5200 3050
 Wire Wire Line
 	4750 1050 4750 1700
 Connection ~ 4750 1700
@@ -1945,4 +1927,22 @@ Wire Wire Line
 Wire Wire Line
 	4750 4350 5200 4350
 Connection ~ 4750 3050
+$Comp
+L kicad-keyboard-parts:MX_LED MX_ESC1
+U 1 1 6320F285
+P 700 1050
+F 0 "MX_ESC1" H 572 945 50  0000 R CNN
+F 1 "MX_LED" H 572 1012 20  0000 R CNN
+F 2 "kbd:CherryMX_Choc_1u" H 750 1150 50  0001 C CNN
+F 3 "" H 750 1150 50  0001 C CNN
+	1    700  1050
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5200 2350 5200 3050
+Connection ~ 5200 3050
+Wire Wire Line
+	5200 3050 5200 3700
+Wire Wire Line
+	4950 3200 5400 3200
 $EndSCHEMATC
