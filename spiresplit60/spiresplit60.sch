@@ -14,716 +14,716 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L kicad-keyboard-parts:MX_LED MX_2
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_2
 U 1 1 6321142A
 P 3050 1600
 F 0 "MX_2" H 2922 1495 50  0000 R CNN
 F 1 "MX_LED" H 2922 1562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 3100 1700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 3100 1700 50  0001 C CNN
 F 3 "" H 3100 1700 50  0001 C CNN
 	1    3050 1600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_3
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_3
 U 1 1 63211A85
 P 3500 1600
 F 0 "MX_3" H 3372 1495 50  0000 R CNN
 F 1 "MX_LED" H 3372 1562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 3550 1700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 3550 1700 50  0001 C CNN
 F 3 "" H 3550 1700 50  0001 C CNN
 	1    3500 1600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_4
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_4
 U 1 1 6321C41E
 P 3950 1600
 F 0 "MX_4" H 3822 1495 50  0000 R CNN
 F 1 "MX_LED" H 3822 1562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 4000 1700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 4000 1700 50  0001 C CNN
 F 3 "" H 4000 1700 50  0001 C CNN
 	1    3950 1600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_5
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_5
 U 1 1 6321CA38
 P 4400 1600
 F 0 "MX_5" H 4272 1495 50  0000 R CNN
 F 1 "MX_LED" H 4272 1562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 4450 1700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 4450 1700 50  0001 C CNN
 F 3 "" H 4450 1700 50  0001 C CNN
 	1    4400 1600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_6
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_6
 U 1 1 6321D002
 P 4850 1600
 F 0 "MX_6" H 4722 1495 50  0000 R CNN
 F 1 "MX_LED" H 4722 1562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 4900 1700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 4900 1700 50  0001 C CNN
 F 3 "" H 4900 1700 50  0001 C CNN
 	1    4850 1600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_TAB1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_TAB1
 U 1 1 6321D919
 P 2150 2250
 F 0 "MX_TAB1" H 2022 2145 50  0000 R CNN
 F 1 "MX_LED" H 2022 2212 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 2200 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 2200 2350 50  0001 C CNN
 F 3 "" H 2200 2350 50  0001 C CNN
 	1    2150 2250
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_Q1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_Q1
 U 1 1 63220CF2
 P 3050 2250
 F 0 "MX_Q1" H 2922 2145 50  0000 R CNN
 F 1 "MX_LED" H 2922 2212 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 3100 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 3100 2350 50  0001 C CNN
 F 3 "" H 3100 2350 50  0001 C CNN
 	1    3050 2250
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_W1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_W1
 U 1 1 632212DA
 P 3500 2250
 F 0 "MX_W1" H 3372 2145 50  0000 R CNN
 F 1 "MX_LED" H 3372 2212 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 3550 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 3550 2350 50  0001 C CNN
 F 3 "" H 3550 2350 50  0001 C CNN
 	1    3500 2250
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_E1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_E1
 U 1 1 632218E5
 P 3950 2250
 F 0 "MX_E1" H 3822 2145 50  0000 R CNN
 F 1 "MX_LED" H 3822 2212 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 4000 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 4000 2350 50  0001 C CNN
 F 3 "" H 4000 2350 50  0001 C CNN
 	1    3950 2250
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_R1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_R1
 U 1 1 63221EC3
 P 4400 2250
 F 0 "MX_R1" H 4272 2145 50  0000 R CNN
 F 1 "MX_LED" H 4272 2212 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 4450 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 4450 2350 50  0001 C CNN
 F 3 "" H 4450 2350 50  0001 C CNN
 	1    4400 2250
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_T1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_T1
 U 1 1 63222528
 P 4850 2250
 F 0 "MX_T1" H 4722 2145 50  0000 R CNN
 F 1 "MX_LED" H 4722 2212 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 4900 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 4900 2350 50  0001 C CNN
 F 3 "" H 4900 2350 50  0001 C CNN
 	1    4850 2250
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_CAPS1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_CAPS1
 U 1 1 63225DE1
 P 2150 2900
 F 0 "MX_CAPS1" H 2022 2795 50  0000 R CNN
 F 1 "MX_LED" H 2022 2862 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 2200 3000 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 2200 3000 50  0001 C CNN
 F 3 "" H 2200 3000 50  0001 C CNN
 	1    2150 2900
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_A1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_A1
 U 1 1 63226342
 P 3050 2900
 F 0 "MX_A1" H 2922 2795 50  0000 R CNN
 F 1 "MX_LED" H 2922 2862 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 3100 3000 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 3100 3000 50  0001 C CNN
 F 3 "" H 3100 3000 50  0001 C CNN
 	1    3050 2900
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_S1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_S1
 U 1 1 63226952
 P 3500 2900
 F 0 "MX_S1" H 3372 2795 50  0000 R CNN
 F 1 "MX_LED" H 3372 2862 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 3550 3000 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 3550 3000 50  0001 C CNN
 F 3 "" H 3550 3000 50  0001 C CNN
 	1    3500 2900
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_D1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_D1
 U 1 1 63226EAE
 P 3950 2900
 F 0 "MX_D1" H 3822 2795 50  0000 R CNN
 F 1 "MX_LED" H 3822 2862 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 4000 3000 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 4000 3000 50  0001 C CNN
 F 3 "" H 4000 3000 50  0001 C CNN
 	1    3950 2900
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_F1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_F1
 U 1 1 63227450
 P 4400 2900
 F 0 "MX_F1" H 4272 2795 50  0000 R CNN
 F 1 "MX_LED" H 4272 2862 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 4450 3000 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 4450 3000 50  0001 C CNN
 F 3 "" H 4450 3000 50  0001 C CNN
 	1    4400 2900
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_G1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_G1
 U 1 1 632277A9
 P 4850 2900
 F 0 "MX_G1" H 4722 2795 50  0000 R CNN
 F 1 "MX_LED" H 4722 2862 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 4900 3000 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 4900 3000 50  0001 C CNN
 F 3 "" H 4900 3000 50  0001 C CNN
 	1    4850 2900
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_LSHIFT1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_LSHIFT1
 U 1 1 63227E31
 P 2150 3600
 F 0 "MX_LSHIFT1" H 2022 3495 50  0000 R CNN
 F 1 "MX_LED" H 2022 3562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 2200 3700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 2200 3700 50  0001 C CNN
 F 3 "" H 2200 3700 50  0001 C CNN
 	1    2150 3600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_Z1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_Z1
 U 1 1 63228496
 P 3050 3600
 F 0 "MX_Z1" H 2922 3495 50  0000 R CNN
 F 1 "MX_LED" H 2922 3562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 3100 3700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 3100 3700 50  0001 C CNN
 F 3 "" H 3100 3700 50  0001 C CNN
 	1    3050 3600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_X1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_X1
 U 1 1 632289ED
 P 3500 3600
 F 0 "MX_X1" H 3372 3495 50  0000 R CNN
 F 1 "MX_LED" H 3372 3562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 3550 3700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 3550 3700 50  0001 C CNN
 F 3 "" H 3550 3700 50  0001 C CNN
 	1    3500 3600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_C1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_C1
 U 1 1 63228E2C
 P 3950 3600
 F 0 "MX_C1" H 3822 3495 50  0000 R CNN
 F 1 "MX_LED" H 3822 3562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 4000 3700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 4000 3700 50  0001 C CNN
 F 3 "" H 4000 3700 50  0001 C CNN
 	1    3950 3600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_V1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_V1
 U 1 1 63229306
 P 4400 3600
 F 0 "MX_V1" H 4272 3495 50  0000 R CNN
 F 1 "MX_LED" H 4272 3562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 4450 3700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 4450 3700 50  0001 C CNN
 F 3 "" H 4450 3700 50  0001 C CNN
 	1    4400 3600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_B1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_B1
 U 1 1 632297FE
 P 4850 3600
 F 0 "MX_B1" H 4722 3495 50  0000 R CNN
 F 1 "MX_LED" H 4722 3562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 4900 3700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 4900 3700 50  0001 C CNN
 F 3 "" H 4900 3700 50  0001 C CNN
 	1    4850 3600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_LCTRL1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_LCTRL1
 U 1 1 63245F77
 P 2150 4250
 F 0 "MX_LCTRL1" H 2022 4145 50  0000 R CNN
 F 1 "MX_LED" H 2022 4212 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 2200 4350 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 2200 4350 50  0001 C CNN
 F 3 "" H 2200 4350 50  0001 C CNN
 	1    2150 4250
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_LWIN1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_LWIN1
 U 1 1 6324653C
 P 2600 4250
 F 0 "MX_LWIN1" H 2472 4145 50  0000 R CNN
 F 1 "MX_LED" H 2472 4212 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 2650 4350 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 2650 4350 50  0001 C CNN
 F 3 "" H 2650 4350 50  0001 C CNN
 	1    2600 4250
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_LALT1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_LALT1
 U 1 1 6324698A
 P 3050 4250
 F 0 "MX_LALT1" H 2922 4145 50  0000 R CNN
 F 1 "MX_LED" H 2922 4212 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 3100 4350 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 3100 4350 50  0001 C CNN
 F 3 "" H 3100 4350 50  0001 C CNN
 	1    3050 4250
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_SPACE1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_SPACE1
 U 1 1 63247139
 P 3950 4250
 F 0 "MX_SPACE1" H 3822 4145 50  0000 R CNN
 F 1 "MX_LED" H 3822 4212 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 4000 4350 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 4000 4350 50  0001 C CNN
 F 3 "" H 4000 4350 50  0001 C CNN
 	1    3950 4250
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_SPACE2
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_SPACE2
 U 1 1 632475F5
 P 4400 4250
 F 0 "MX_SPACE2" H 4272 4145 50  0000 R CNN
 F 1 "MX_LED" H 4272 4212 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 4450 4350 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 4450 4350 50  0001 C CNN
 F 3 "" H 4450 4350 50  0001 C CNN
 	1    4400 4250
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_7
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_7
 U 1 1 6329BD15
 P 6350 1600
 F 0 "MX_7" H 6222 1495 50  0000 R CNN
 F 1 "MX_LED" H 6222 1562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 6400 1700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 6400 1700 50  0001 C CNN
 F 3 "" H 6400 1700 50  0001 C CNN
 	1    6350 1600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_8
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_8
 U 1 1 6329C0BD
 P 6800 1600
 F 0 "MX_8" H 6672 1495 50  0000 R CNN
 F 1 "MX_LED" H 6672 1562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 6850 1700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 6850 1700 50  0001 C CNN
 F 3 "" H 6850 1700 50  0001 C CNN
 	1    6800 1600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_9
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_9
 U 1 1 6329C0C7
 P 7250 1600
 F 0 "MX_9" H 7122 1495 50  0000 R CNN
 F 1 "MX_LED" H 7122 1562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 7300 1700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 7300 1700 50  0001 C CNN
 F 3 "" H 7300 1700 50  0001 C CNN
 	1    7250 1600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_0
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_0
 U 1 1 6329C0D1
 P 7700 1600
 F 0 "MX_0" H 7572 1495 50  0000 R CNN
 F 1 "MX_LED" H 7572 1562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 7750 1700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 7750 1700 50  0001 C CNN
 F 3 "" H 7750 1700 50  0001 C CNN
 	1    7700 1600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_-1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_-1
 U 1 1 6329C0DB
 P 8150 1600
 F 0 "MX_-1" H 8022 1495 50  0000 R CNN
 F 1 "MX_LED" H 8022 1562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 8200 1700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 8200 1700 50  0001 C CNN
 F 3 "" H 8200 1700 50  0001 C CNN
 	1    8150 1600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_=1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_=1
 U 1 1 6329C0E5
 P 8600 1600
 F 0 "MX_=1" H 8472 1495 50  0000 R CNN
 F 1 "MX_LED" H 8472 1562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 8650 1700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 8650 1700 50  0001 C CNN
 F 3 "" H 8650 1700 50  0001 C CNN
 	1    8600 1600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_BS1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_BS1
 U 1 1 6329C0EF
 P 9500 1600
 F 0 "MX_BS1" H 9372 1495 50  0000 R CNN
 F 1 "MX_LED" H 9372 1562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 9550 1700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 9550 1700 50  0001 C CNN
 F 3 "" H 9550 1700 50  0001 C CNN
 	1    9500 1600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_I1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_I1
 U 1 1 6329C0F9
 P 7250 2250
 F 0 "MX_I1" H 7122 2145 50  0000 R CNN
 F 1 "MX_LED" H 7122 2212 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 7300 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 7300 2350 50  0001 C CNN
 F 3 "" H 7300 2350 50  0001 C CNN
 	1    7250 2250
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_O1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_O1
 U 1 1 6329C103
 P 7700 2250
 F 0 "MX_O1" H 7572 2145 50  0000 R CNN
 F 1 "MX_LED" H 7572 2212 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 7750 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 7750 2350 50  0001 C CNN
 F 3 "" H 7750 2350 50  0001 C CNN
 	1    7700 2250
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_P1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_P1
 U 1 1 6329C10D
 P 8150 2250
 F 0 "MX_P1" H 8022 2145 50  0000 R CNN
 F 1 "MX_LED" H 8022 2212 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 8200 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 8200 2350 50  0001 C CNN
 F 3 "" H 8200 2350 50  0001 C CNN
 	1    8150 2250
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_[1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_[1
 U 1 1 6329C117
 P 8600 2250
 F 0 "MX_[1" H 8472 2145 50  0000 R CNN
 F 1 "MX_LED" H 8472 2212 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 8650 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 8650 2350 50  0001 C CNN
 F 3 "" H 8650 2350 50  0001 C CNN
 	1    8600 2250
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_]1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_]1
 U 1 1 6329C121
 P 9050 2250
 F 0 "MX_]1" H 8922 2145 50  0000 R CNN
 F 1 "MX_LED" H 8922 2212 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 9100 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 9100 2350 50  0001 C CNN
 F 3 "" H 9100 2350 50  0001 C CNN
 	1    9050 2250
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_\1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_\1
 U 1 1 6329C12B
 P 9500 2250
 F 0 "MX_\\1" H 9372 2145 50  0000 R CNN
 F 1 "MX_LED" H 9372 2212 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 9550 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 9550 2350 50  0001 C CNN
 F 3 "" H 9550 2350 50  0001 C CNN
 	1    9500 2250
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_J1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_J1
 U 1 1 6329C135
 P 6800 2900
 F 0 "MX_J1" H 6672 2795 50  0000 R CNN
 F 1 "MX_LED" H 6672 2862 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 6850 3000 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 6850 3000 50  0001 C CNN
 F 3 "" H 6850 3000 50  0001 C CNN
 	1    6800 2900
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_K1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_K1
 U 1 1 6329C13F
 P 7250 2900
 F 0 "MX_K1" H 7122 2795 50  0000 R CNN
 F 1 "MX_LED" H 7122 2862 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 7300 3000 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 7300 3000 50  0001 C CNN
 F 3 "" H 7300 3000 50  0001 C CNN
 	1    7250 2900
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_L1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_L1
 U 1 1 6329C149
 P 7700 2900
 F 0 "MX_L1" H 7572 2795 50  0000 R CNN
 F 1 "MX_LED" H 7572 2862 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 7750 3000 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 7750 3000 50  0001 C CNN
 F 3 "" H 7750 3000 50  0001 C CNN
 	1    7700 2900
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_;1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_;1
 U 1 1 6329C153
 P 8150 2900
 F 0 "MX_;1" H 8022 2795 50  0000 R CNN
 F 1 "MX_LED" H 8022 2862 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 8200 3000 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 8200 3000 50  0001 C CNN
 F 3 "" H 8200 3000 50  0001 C CNN
 	1    8150 2900
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_'1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_'1
 U 1 1 6329C15D
 P 8600 2900
 F 0 "MX_'1" H 8472 2795 50  0000 R CNN
 F 1 "MX_LED" H 8472 2862 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 8650 3000 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 8650 3000 50  0001 C CNN
 F 3 "" H 8650 3000 50  0001 C CNN
 	1    8600 2900
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_ENTER1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_ENTER1
 U 1 1 6329C167
 P 9500 2900
 F 0 "MX_ENTER1" H 9372 2795 50  0000 R CNN
 F 1 "MX_LED" H 9372 2862 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 9550 3000 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 9550 3000 50  0001 C CNN
 F 3 "" H 9550 3000 50  0001 C CNN
 	1    9500 2900
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_M1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_M1
 U 1 1 6329C171
 P 6800 3600
 F 0 "MX_M1" H 6672 3495 50  0000 R CNN
 F 1 "MX_LED" H 6672 3562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 6850 3700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 6850 3700 50  0001 C CNN
 F 3 "" H 6850 3700 50  0001 C CNN
 	1    6800 3600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_,1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_,1
 U 1 1 6329C17B
 P 7250 3600
 F 0 "MX_,1" H 7122 3495 50  0000 R CNN
 F 1 "MX_LED" H 7122 3562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 7300 3700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 7300 3700 50  0001 C CNN
 F 3 "" H 7300 3700 50  0001 C CNN
 	1    7250 3600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_.1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_.1
 U 1 1 6329C185
 P 7700 3600
 F 0 "MX_.1" H 7572 3495 50  0000 R CNN
 F 1 "MX_LED" H 7572 3562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 7750 3700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 7750 3700 50  0001 C CNN
 F 3 "" H 7750 3700 50  0001 C CNN
 	1    7700 3600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_/1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_/1
 U 1 1 6329C18F
 P 8150 3600
 F 0 "MX_/1" H 8022 3495 50  0000 R CNN
 F 1 "MX_LED" H 8022 3562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 8200 3700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 8200 3700 50  0001 C CNN
 F 3 "" H 8200 3700 50  0001 C CNN
 	1    8150 3600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_RSHIFT1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_RSHIFT1
 U 1 1 6329C199
 P 9050 3600
 F 0 "MX_RSHIFT1" H 8922 3495 50  0000 R CNN
 F 1 "MX_LED" H 8922 3562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 9100 3700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 9100 3700 50  0001 C CNN
 F 3 "" H 9100 3700 50  0001 C CNN
 	1    9050 3600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_EXTRA1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_EXTRA1
 U 1 1 6329C1A3
 P 9500 3600
 F 0 "MX_EXTRA1" H 9372 3495 50  0000 R CNN
 F 1 "MX_LED" H 9372 3562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 9550 3700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 9550 3700 50  0001 C CNN
 F 3 "" H 9550 3700 50  0001 C CNN
 	1    9500 3600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_SPACE4
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_SPACE4
 U 1 1 6329C1AD
 P 7250 4250
 F 0 "MX_SPACE4" H 7122 4145 50  0000 R CNN
 F 1 "MX_LED" H 7122 4212 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 7300 4350 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 7300 4350 50  0001 C CNN
 F 3 "" H 7300 4350 50  0001 C CNN
 	1    7250 4250
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_RALT1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_RALT1
 U 1 1 6329C1B7
 P 7700 4250
 F 0 "MX_RALT1" H 7572 4145 50  0000 R CNN
 F 1 "MX_LED" H 7572 4212 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 7750 4350 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 7750 4350 50  0001 C CNN
 F 3 "" H 7750 4350 50  0001 C CNN
 	1    7700 4250
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_RWIN1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_RWIN1
 U 1 1 6329C1C1
 P 8150 4250
 F 0 "MX_RWIN1" H 8022 4145 50  0000 R CNN
 F 1 "MX_LED" H 8022 4212 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 8200 4350 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 8200 4350 50  0001 C CNN
 F 3 "" H 8200 4350 50  0001 C CNN
 	1    8150 4250
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_MACRO1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_MACRO1
 U 1 1 6329C1CB
 P 9050 4250
 F 0 "MX_MACRO1" H 8922 4145 50  0000 R CNN
 F 1 "MX_LED" H 8922 4212 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 9100 4350 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 9100 4350 50  0001 C CNN
 F 3 "" H 9100 4350 50  0001 C CNN
 	1    9050 4250
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_RCTRL1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_RCTRL1
 U 1 1 6329C1D5
 P 9500 4250
 F 0 "MX_RCTRL1" H 9372 4145 50  0000 R CNN
 F 1 "MX_LED" H 9372 4212 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 9550 4350 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 9550 4350 50  0001 C CNN
 F 3 "" H 9550 4350 50  0001 C CNN
 	1    9500 4250
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_U1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_U1
 U 1 1 632D9301
 P 6800 2250
 F 0 "MX_U1" H 6672 2145 50  0000 R CNN
 F 1 "MX_LED" H 6672 2212 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 6850 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 6850 2350 50  0001 C CNN
 F 3 "" H 6850 2350 50  0001 C CNN
 	1    6800 2250
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_Y1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_Y1
 U 1 1 632D993E
 P 6350 2250
 F 0 "MX_Y1" H 6222 2145 50  0000 R CNN
 F 1 "MX_LED" H 6222 2212 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 6400 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 6400 2350 50  0001 C CNN
 F 3 "" H 6400 2350 50  0001 C CNN
 	1    6350 2250
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_H1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_H1
 U 1 1 632DA0B6
 P 6350 2900
 F 0 "MX_H1" H 6222 2795 50  0000 R CNN
 F 1 "MX_LED" H 6222 2862 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 6400 3000 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 6400 3000 50  0001 C CNN
 F 3 "" H 6400 3000 50  0001 C CNN
 	1    6350 2900
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_N1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_N1
 U 1 1 632DA684
 P 6350 3600
 F 0 "MX_N1" H 6222 3495 50  0000 R CNN
 F 1 "MX_LED" H 6222 3562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 6400 3700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 6400 3700 50  0001 C CNN
 F 3 "" H 6400 3700 50  0001 C CNN
 	1    6350 3600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_SPACE3
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_SPACE3
 U 1 1 632DACB2
 P 6800 4250
 F 0 "MX_SPACE3" H 6672 4145 50  0000 R CNN
 F 1 "MX_LED" H 6672 4212 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 6850 4350 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 6850 4350 50  0001 C CNN
 F 3 "" H 6850 4350 50  0001 C CNN
 	1    6800 4250
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_1
 U 1 1 63210A55
 P 2600 1600
 F 0 "MX_1" H 2472 1495 50  0000 R CNN
 F 1 "MX_LED" H 2472 1562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 2650 1700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 2650 1700 50  0001 C CNN
 F 3 "" H 2650 1700 50  0001 C CNN
 	1    2600 1600
 	-1   0    0    1   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_MOD1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_MOD1
 U 1 1 632EBA98
 P 3950 4900
 F 0 "MX_MOD1" H 3822 4795 50  0000 R CNN
 F 1 "MX_LED" H 3822 4862 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 4000 5000 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 4000 5000 50  0001 C CNN
 F 3 "" H 4000 5000 50  0001 C CNN
 	1    3950 4900
 	-1   0    0    1   
@@ -1839,12 +1839,12 @@ Wire Wire Line
 	3800 5050 3800 4900
 Connection ~ 4700 3600
 $Comp
-L kicad-keyboard-parts:MX_LED MX_ESC1
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_ESC1
 U 1 1 6320F285
 P 2150 1600
 F 0 "MX_ESC1" H 2022 1495 50  0000 R CNN
 F 1 "MX_LED" H 2022 1562 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 2200 1700 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 2200 1700 50  0001 C CNN
 F 3 "" H 2200 1700 50  0001 C CNN
 	1    2150 1600
 	-1   0    0    1   
@@ -2064,12 +2064,12 @@ F 5 "D" H 6850 4550 50  0001 L CNN "Spice_Primitive"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L kicad-keyboard-parts:MX_LED MX_MOD2
+L spiresplit60-rescue:MX_LED-kicad-keyboard-parts MX_MOD2
 U 1 1 632ECE72
 P 6800 4900
 F 0 "MX_MOD2" H 6672 4795 50  0000 R CNN
 F 1 "MX_LED" H 6672 4862 20  0000 R CNN
-F 2 "keyswitches:SW_PG1350" H 6850 5000 50  0001 C CNN
+F 2 "Keebio-Parts:Kailh-PG1350-1u" H 6850 5000 50  0001 C CNN
 F 3 "" H 6850 5000 50  0001 C CNN
 	1    6800 4900
 	-1   0    0    1   
@@ -2152,11 +2152,11 @@ Wire Wire Line
 	3600 7450 3600 7550
 Text GLabel 1050 7600 0    50   Input ~ 0
 VCC1
-Text GLabel 4400 7450 2    50   Input ~ 0
+Text GLabel 4050 7500 0    50   Input ~ 0
 VCC2
 Text GLabel 1050 7700 0    50   Input ~ 0
 GND1
-Text GLabel 4400 7350 2    50   Input ~ 0
+Text GLabel 4050 7600 0    50   Input ~ 0
 GND2
 Text GLabel 850  5750 0    50   Input ~ 0
 Serial1
@@ -2170,7 +2170,7 @@ Text GLabel 4000 6950 0    50   Input ~ 0
 GND2
 Text GLabel 4400 6950 2    50   Input ~ 0
 RST2
-Text GLabel 4400 7550 2    50   Input ~ 0
+Text GLabel 4050 7400 0    50   Input ~ 0
 Serial2
 Text GLabel 1050 7500 0    50   Input ~ 0
 Serial1
@@ -2209,25 +2209,25 @@ Wire Wire Line
 Wire Wire Line
 	3150 7050 3150 6900
 $Comp
-L Connector:AudioJack4 J?
-U 1 1 632AFDBF
-P 4200 7450
-F 0 "J?" H 4157 7775 50  0000 C CNN
-F 1 "AudioJack4" H 4157 7684 50  0000 C CNN
-F 2 "" H 4200 7450 50  0001 C CNN
-F 3 "~" H 4200 7450 50  0001 C CNN
-	1    4200 7450
+L keebio:TRRS U4
+U 1 1 632A8AA3
+P 1400 7800
+F 0 "U4" H 1628 8103 60  0000 L CNN
+F 1 "TRRS" H 1628 7997 60  0000 L CNN
+F 2 "Keebio-Parts:TRRS-PJ-320A" H 1550 7800 60  0001 C CNN
+F 3 "" H 1550 7800 60  0001 C CNN
+	1    1400 7800
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:AudioJack4 J?
-U 1 1 632B7D1F
-P 1250 7600
-F 0 "J?" H 920 7483 50  0000 R CNN
-F 1 "AudioJack4" H 920 7574 50  0000 R CNN
-F 2 "" H 1250 7600 50  0001 C CNN
-F 3 "~" H 1250 7600 50  0001 C CNN
-	1    1250 7600
-	-1   0    0    1   
+L keebio:TRRS U3
+U 1 1 632A992C
+P 4400 7700
+F 0 "U3" H 4628 8003 60  0000 L CNN
+F 1 "TRRS" H 4628 7897 60  0000 L CNN
+F 2 "Keebio-Parts:TRRS-PJ-320A" H 4550 7700 60  0001 C CNN
+F 3 "" H 4550 7700 60  0001 C CNN
+	1    4400 7700
+	1    0    0    -1  
 $EndComp
 $EndSCHEMATC

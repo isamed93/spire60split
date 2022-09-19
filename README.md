@@ -17,3 +17,6 @@ The layout information can be found inside the layout folder.
 
 ### Split layout
 QMK documentation for split keyboards can be found here https://github.com/qmk/qmk_firmware/blob/master/docs/feature_split_keyboard.md
+
+## Firmware
+Firmware was coded following this guide: https://github.com/DIYCharles/DIYKeyboards#qmk-firmware
